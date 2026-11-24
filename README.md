@@ -8,7 +8,6 @@
   <a href="https://doi.org/10.1126/science.aac4420"><img src="https://img.shields.io/badge/Paper-Science%202015-7C3AED?style=for-the-badge" alt="Science 2015"></a>
   <a href="https://doi.org/10.3886/E100144V5"><img src="https://img.shields.io/badge/Data-ICPSR%20100144-2563EB?style=for-the-badge" alt="ICPSR 100144"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/Third--party%20Data-CC%20BY%204.0-16A34A?style=for-the-badge" alt="CC BY 4.0"></a>
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 </p>
 
 <p>
